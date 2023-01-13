@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T07:36:26.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.4" etag="h7snpfRzlj0SsgxWt5bV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T07:36:45.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.4" etag="OPGmuYWVVBczAxM5CzMK" type="github">
   <diagram id="X1pqfdLoyEXi40aKj6Dz" name="第 1 页">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
           <mxGeometry x="333.5" y="44" width="60" height="19" as="geometry" />
         </mxCell>
         <mxCell id="lJw6rxqIaNfd_lT4gOlx-112" value="外部接口（和叉车客户端程序的通讯接口）" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300" y="988" width="294" height="60" as="geometry" />
+          <mxGeometry x="307" y="988" width="287" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
