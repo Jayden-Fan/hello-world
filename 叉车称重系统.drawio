@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T07:34:12.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.4" etag="EeMk3brlqbEU_WaHjLUF" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T07:36:26.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.4" etag="h7snpfRzlj0SsgxWt5bV" type="github">
   <diagram id="X1pqfdLoyEXi40aKj6Dz" name="第 1 页">
-    <mxGraphModel dx="724" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,12 +193,6 @@
         <mxCell id="lJw6rxqIaNfd_lT4gOlx-101" value="RS485接口" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="362" y="883" width="75" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="lJw6rxqIaNfd_lT4gOlx-102" value="向上通讯接口" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="465.5" y="995.25" width="92" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="lJw6rxqIaNfd_lT4gOlx-103" value="称重读数" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="310" y="995.25" width="92" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="lJw6rxqIaNfd_lT4gOlx-104" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="153" y="1057" width="496" height="48" as="geometry" />
         </mxCell>
@@ -222,6 +216,9 @@
         </mxCell>
         <mxCell id="lJw6rxqIaNfd_lT4gOlx-111" value="PC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="44" width="60" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="lJw6rxqIaNfd_lT4gOlx-112" value="外部接口（和叉车客户端程序的通讯接口）" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="988" width="294" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
