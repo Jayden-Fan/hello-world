@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T09:48:40.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8SoAas-2q-hmX_pjkTme" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T03:55:18.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nghDZNaJxWlUDc6oyvWU" version="21.6.7" type="github">
   <diagram id="X1pqfdLoyEXi40aKj6Dz" name="第 1 页">
     <mxGraphModel dx="1434" dy="782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="lJw6rxqIaNfd_lT4gOlx-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="253" y="349" width="344" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="lJw6rxqIaNfd_lT4gOlx-45" value="内部接口（和叉车称重客户端程序的通讯接口）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="lJw6rxqIaNfd_lT4gOlx-45" value="内部接口（和智能仓储通讯接口）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="270" y="360.5" width="305" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lJw6rxqIaNfd_lT4gOlx-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
@@ -94,28 +94,28 @@
         <mxCell id="lJw6rxqIaNfd_lT4gOlx-111" value="PC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="333.5" y="44" width="60" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="k8Ibx7LnlquFCrMsMRpq-1" value="摄像头实时布防" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k8Ibx7LnlquFCrMsMRpq-1" value="摄像头实时布防" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="390" y="204" width="102" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="k8Ibx7LnlquFCrMsMRpq-2" value="摄像头" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k8Ibx7LnlquFCrMsMRpq-2" value="摄像头" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="227" y="500" width="99" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="k8Ibx7LnlquFCrMsMRpq-3" value="磷化氢传感器" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k8Ibx7LnlquFCrMsMRpq-3" value="磷化氢传感器" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="368" y="500.25" width="99" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="k8Ibx7LnlquFCrMsMRpq-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="k8Ibx7LnlquFCrMsMRpq-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="251" y="105" width="114" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="k8Ibx7LnlquFCrMsMRpq-5" value="首页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="k8Ibx7LnlquFCrMsMRpq-5" value="首页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="253" y="116" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k8Ibx7LnlquFCrMsMRpq-7" value="天气预报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k8Ibx7LnlquFCrMsMRpq-7" value="天气预报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="265" y="155" width="86" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="k8Ibx7LnlquFCrMsMRpq-8" value="车辆监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k8Ibx7LnlquFCrMsMRpq-8" value="车辆监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="265.5" y="206.5" width="86" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="k8Ibx7LnlquFCrMsMRpq-9" value="地图服务(上海交大提供)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="k8Ibx7LnlquFCrMsMRpq-9" value="地图服务(上海交大提供)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="265.5" y="258" width="86" height="66" as="geometry" />
         </mxCell>
       </root>
